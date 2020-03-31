@@ -1,0 +1,47 @@
+# application.properties
+
+server:
+  port: 8082
+
+spring:
+  profiles:
+    active: local
+
+---
+
+spring:
+  profiles: local
+
+# MySQL
+  datasource:
+    url: jdbc:mysql://localhost/demoDb
+    username: root
+    password: qwe123!@#
+    driver-class-name: com.mysql.jdbc.Driver
+
+# JSP
+  mvc:
+    view:
+      prefix: /WEB-INF/view/
+      suffix: .jsp
+    static-path-pattern: /**
+    locale: ko_KR
+
+# i18n message
+  messages:
+    encoding: UTF-8
+    basename: i18n/messages
+
+# LOGGING
+# logging.level.${package}: ${TRACE,DEBUG...}
+# - TRACE : TRACE, DEBUG, INFO, WARN, ERROR
+# - DEBUG : DEBUG, INFO, WARN, ERROR
+# - INFO : INFO, WARN, ERROR
+# - WARN : WARN, ERROR
+# - ERROR : ERROR
+# - OFF 
+
+logging:
+#  level:
+#    com.kail: TRACE
+  config: classpath:logback-spring.xml
