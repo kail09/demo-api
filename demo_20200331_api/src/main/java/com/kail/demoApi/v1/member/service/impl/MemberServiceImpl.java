@@ -1,5 +1,8 @@
 package com.kail.demoApi.v1.member.service.impl;
 
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
+import java.security.SecureRandom;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -58,17 +61,29 @@ public class MemberServiceImpl implements MemberService {
 	
 	@Override
 	public String loginUserInfo(MemberModel memberModel, HttpSession session) throws Exception {
+		String token = null;
+		SecureRandom secureRandom;		
+		String userName = null;
 		
 		// 기존 userId 조회
 		try {
-			String userName = memberDao.loginUserInfo(memberModel);
+			userName = memberDao.loginUserInfo(memberModel);
 			session.setAttribute("userId", memberModel.getUserId());
 			session.setAttribute("userName", userName);
 			memberModel.setUserName(userName);
+			
+			try {
+				secureRandom = SecureRandom.getInstance("SHA1PRNG");
+				MessageDigest digest = MessageDigest.getInstance("SHA-256");
+				secureRandom.setSeed(secureRandom.generateSeed(128));
+				token= new String(digest.digest((secureRandom.nextLong() + "").getBytes()));
+			} catch (NoSuchAlgorithmException e) {
+				log.error("[ERROR-201] Exception :: SecureToken C : " + e.getMessage());
+			}
 		} catch (Exception e) {
 			log.error("[ERROR-200] Exception : " + e.getMessage());
 		}
-		return memberModel.getUserName();
+		return token;
 	}
 	
 	@Override

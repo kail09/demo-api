@@ -1,159 +1,436 @@
-2020-03-31 09:47:33.468 INFO  1143 --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 8746 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 09:47:33.471 DEBUG 1146 --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 09:47:33.471 INFO  1146 --- [ main ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 09:48:17.190 INFO  722  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 8795 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 09:48:17.193 DEBUG 725  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 09:48:17.194 INFO  726  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 09:50:06.509 INFO  677  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 8918 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 09:50:06.511 DEBUG 679  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 09:50:06.512 INFO  680  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 09:51:29.395 INFO  717  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 9013 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 09:51:29.397 DEBUG 719  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 09:51:29.398 INFO  720  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 09:52:47.672 INFO  758  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 9100 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 09:52:47.674 DEBUG 760  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 09:52:47.675 INFO  761  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 09:53:38.766 INFO  695  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 9160 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 09:53:38.769 DEBUG 698  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 09:53:38.770 INFO  699  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 09:53:52.914 INFO  729  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 9176 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 09:53:52.917 DEBUG 732  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 09:53:52.918 INFO  733  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 09:54:00.990 INFO  1265 --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 9186 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 09:54:00.994 DEBUG 1269 --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 09:54:00.994 INFO  1269 --- [ main ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 09:56:13.346 INFO  732  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 9334 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 09:56:13.349 DEBUG 735  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 09:56:13.349 INFO  735  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 09:57:10.521 INFO  1128 --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 9402 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 09:57:10.525 DEBUG 1132 --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 09:57:10.526 INFO  1133 --- [ main ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 09:57:42.655 INFO  754  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 9439 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 09:57:42.658 DEBUG 757  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 09:57:42.658 INFO  757  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 09:58:16.796 INFO  788  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 9478 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 09:58:16.799 DEBUG 791  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 09:58:16.800 INFO  792  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - No active profile set, falling back to default profiles: default
-2020-03-31 09:58:41.113 INFO  1293 --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 9505 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 09:58:41.118 DEBUG 1298 --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 09:58:41.119 INFO  1299 --- [ main ] c.k.d.v1.Demo20200331ApiApplication - No active profile set, falling back to default profiles: default
-2020-03-31 09:59:02.344 INFO  904  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 9529 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 09:59:02.347 DEBUG 907  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 09:59:02.347 INFO  907  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - No active profile set, falling back to default profiles: default
-2020-03-31 10:00:40.513 INFO  733  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 9644 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 10:00:40.515 DEBUG 735  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 10:00:40.516 INFO  736  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - No active profile set, falling back to default profiles: default
-2020-03-31 10:01:35.898 INFO  689  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 9706 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 10:01:35.901 DEBUG 692  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 10:01:35.902 INFO  693  --- [ main ] c.k.d.v1.Demo20200331ApiApplication - No active profile set, falling back to default profiles: default
-2020-03-31 10:05:24.202 INFO  2473 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 9962 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 10:05:24.212 DEBUG 2483 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 10:05:24.213 INFO  2484 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - No active profile set, falling back to default profiles: default
-2020-03-31 10:06:09.544 INFO  1356 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 10104 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 10:06:09.550 DEBUG 1362 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 10:06:09.552 INFO  1364 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - No active profile set, falling back to default profiles: default
-2020-03-31 10:06:18.135 INFO  9947 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 9.524 seconds (JVM running for 10.612)
-2020-03-31 13:43:15.272 INFO  2124 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:43:15.280 DEBUG 2132 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:43:15.282 INFO  2134 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - No active profile set, falling back to default profiles: default
-2020-03-31 13:43:25.069 INFO  11921 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 11.171 seconds (JVM running for 13.115)
-2020-03-31 13:44:05.675 INFO  52527 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:44:05.676 DEBUG 52528 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:44:05.677 INFO  52529 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - No active profile set, falling back to default profiles: default
-2020-03-31 13:44:07.940 INFO  54792 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 2.325 seconds (JVM running for 55.986)
-2020-03-31 13:45:52.265 INFO  159117 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:45:52.266 DEBUG 159118 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:45:52.267 INFO  159119 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - No active profile set, falling back to default profiles: default
-2020-03-31 13:45:54.011 INFO  160863 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.79 seconds (JVM running for 162.044)
-2020-03-31 13:46:38.859 INFO  205711 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:46:38.861 DEBUG 205713 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:46:38.861 INFO  205713 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:46:40.366 INFO  207218 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.559 seconds (JVM running for 208.397)
-2020-03-31 13:47:34.312 INFO  261164 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:47:34.312 DEBUG 261164 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:47:34.313 INFO  261165 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:47:35.894 INFO  262746 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.631 seconds (JVM running for 263.923)
-2020-03-31 13:48:15.711 INFO  302563 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:48:15.711 DEBUG 302563 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:48:15.711 INFO  302563 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:48:17.303 INFO  304155 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.629 seconds (JVM running for 305.332)
-2020-03-31 13:48:41.004 INFO  327856 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:48:41.004 DEBUG 327856 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:48:41.004 INFO  327856 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:48:42.509 INFO  329361 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.544 seconds (JVM running for 330.536)
-2020-03-31 13:48:57.141 INFO  343993 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:48:57.142 DEBUG 343994 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:48:57.142 INFO  343994 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:48:58.676 INFO  345528 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.574 seconds (JVM running for 346.703)
-2020-03-31 13:49:05.244 INFO  352096 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:49:05.245 DEBUG 352097 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:49:05.245 INFO  352097 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:49:06.586 INFO  353438 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.373 seconds (JVM running for 354.612)
-2020-03-31 13:49:15.212 INFO  362064 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:49:15.212 DEBUG 362064 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:49:15.212 INFO  362064 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:49:16.600 INFO  363452 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.423 seconds (JVM running for 364.626)
-2020-03-31 13:49:25.244 INFO  372096 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:49:25.245 DEBUG 372097 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:49:25.245 INFO  372097 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:49:27.896 INFO  374748 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 2.683 seconds (JVM running for 375.922)
-2020-03-31 13:50:00.597 INFO  407449 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:50:00.597 DEBUG 407449 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:50:00.597 INFO  407449 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:50:12.220 INFO  419072 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:50:12.221 DEBUG 419073 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:50:12.221 INFO  419073 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:50:20.750 INFO  427602 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:50:20.751 DEBUG 427603 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:50:20.751 INFO  427603 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:50:28.183 INFO  435035 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:50:28.184 DEBUG 435036 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:50:28.184 INFO  435036 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:51:39.676 INFO  506528 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:51:39.676 DEBUG 506528 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:51:39.676 INFO  506528 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:51:59.317 INFO  526169 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:51:59.318 DEBUG 526170 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:51:59.318 INFO  526170 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:52:03.828 INFO  530680 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:52:03.828 DEBUG 530680 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:52:03.828 INFO  530680 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:52:15.362 INFO  542214 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:52:15.363 DEBUG 542215 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:52:15.363 INFO  542215 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:52:21.755 INFO  548607 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:52:21.755 DEBUG 548607 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:52:21.755 INFO  548607 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:52:29.440 INFO  556292 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:52:29.440 DEBUG 556292 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:52:29.440 INFO  556292 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:52:40.959 INFO  567811 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:52:40.959 DEBUG 567811 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:52:40.959 INFO  567811 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:52:46.340 INFO  573192 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:52:46.341 DEBUG 573193 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:52:46.341 INFO  573193 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:52:52.817 INFO  579669 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:52:52.817 DEBUG 579669 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:52:52.818 INFO  579670 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:53:09.530 INFO  596382 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:53:09.530 DEBUG 596382 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:53:09.530 INFO  596382 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:53:17.176 INFO  604028 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:53:17.177 DEBUG 604029 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:53:17.177 INFO  604029 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:53:21.856 INFO  608708 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:53:21.857 DEBUG 608709 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:53:21.857 INFO  608709 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:53:27.443 INFO  614295 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:53:27.444 DEBUG 614296 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:53:27.444 INFO  614296 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:53:29.045 INFO  615897 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.645 seconds (JVM running for 617.064)
-2020-03-31 13:53:35.735 INFO  622587 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:53:35.735 DEBUG 622587 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:53:35.735 INFO  622587 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:53:37.176 INFO  624028 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.469 seconds (JVM running for 625.194)
-2020-03-31 13:53:57.016 INFO  643868 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 1531 (/Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/Documents/workspace-sts-3.9.10.RELEASE/demo_20200331_api)
-2020-03-31 13:53:57.017 DEBUG 643869 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
-2020-03-31 13:53:57.017 INFO  643869 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
-2020-03-31 13:53:58.489 INFO  645341 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.5 seconds (JVM running for 646.507)
+2020-04-19 15:40:03.440 INFO  2130 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 15:40:03.465 DEBUG 2155 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 15:40:03.466 INFO  2156 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 15:40:15.746 INFO  14436 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 13.789 seconds (JVM running for 15.522)
+2020-04-19 15:46:23.611 DEBUG 382301 --- [ http-nio-8082-exec-2 ] c.k.d.v1.member.dao.MemberDao.test - ==>  Preparing: SELECT phone FROM demoDb.member WHERE num = ? 
+2020-04-19 15:46:23.674 DEBUG 382364 --- [ http-nio-8082-exec-2 ] c.k.d.v1.member.dao.MemberDao.test - ==> Parameters: 2(String)
+2020-04-19 15:46:23.724 DEBUG 382414 --- [ http-nio-8082-exec-2 ] c.k.d.v1.member.dao.MemberDao.test - <==      Total: 1
+2020-04-19 15:46:23.726 DEBUG 382416 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.s.impl.MemberServiceImpl - chk debug
+2020-04-19 15:46:23.727 INFO  382417 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.s.impl.MemberServiceImpl - chk info 
+2020-04-19 15:46:23.733 INFO  382423 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.s.impl.MemberServiceImpl - 디버그ko
+2020-04-19 16:49:59.182 INFO  4197872 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 16:49:59.183 DEBUG 4197873 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 16:49:59.184 INFO  4197874 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 16:50:01.248 INFO  4199938 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 2.301 seconds (JVM running for 4200.854)
+2020-04-19 17:43:07.917 INFO  7386607 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 17:43:07.919 DEBUG 7386609 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 17:43:07.919 INFO  7386609 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 17:43:09.952 INFO  7388642 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 2.222 seconds (JVM running for 7389.418)
+2020-04-19 17:43:16.570 DEBUG 7395260 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 17:43:16.572 DEBUG 7395262 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 17:43:16.578 DEBUG 7395268 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 17:43:43.779 INFO  7422469 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 17:43:43.780 DEBUG 7422470 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 17:43:43.781 INFO  7422471 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 17:43:45.448 INFO  7424138 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.718 seconds (JVM running for 7424.912)
+2020-04-19 17:43:52.488 DEBUG 7431178 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 17:43:52.490 DEBUG 7431180 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 17:43:52.492 DEBUG 7431182 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 17:58:02.234 INFO  8280924 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 17:58:02.236 DEBUG 8280926 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 17:58:02.236 INFO  8280926 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 17:58:03.801 INFO  8282491 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.608 seconds (JVM running for 7819.347)
+2020-04-19 17:58:12.890 DEBUG 8291580 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 17:58:12.892 DEBUG 8291582 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), fd(String)
+2020-04-19 17:58:12.894 DEBUG 8291584 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 0
+2020-04-19 18:02:49.805 DEBUG 8568495 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 18:02:49.807 DEBUG 8568497 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), df(String)
+2020-04-19 18:02:49.809 DEBUG 8568499 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 0
+2020-04-19 18:03:47.131 DEBUG 8625821 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 18:03:47.133 DEBUG 8625823 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 18:03:47.138 DEBUG 8625828 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 18:04:06.601 DEBUG 8645291 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 18:04:06.602 DEBUG 8645292 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 18:04:06.606 DEBUG 8645296 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 18:06:19.921 DEBUG 8778611 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 18:06:19.924 DEBUG 8778614 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 18:06:19.927 DEBUG 8778617 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 18:06:37.538 DEBUG 8796228 --- [ http-nio-8082-exec-8 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 18:06:37.540 DEBUG 8796230 --- [ http-nio-8082-exec-8 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 18:06:37.543 DEBUG 8796233 --- [ http-nio-8082-exec-8 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 18:07:02.299 DEBUG 8820989 --- [ http-nio-8082-exec-9 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 18:07:02.302 DEBUG 8820992 --- [ http-nio-8082-exec-9 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 18:07:02.304 DEBUG 8820994 --- [ http-nio-8082-exec-9 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 18:08:43.127 DEBUG 8921817 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 18:08:43.129 DEBUG 8921819 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 18:08:43.135 DEBUG 8921825 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 18:10:11.305 DEBUG 9009995 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 18:10:11.311 DEBUG 9010001 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 18:10:11.317 DEBUG 9010007 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 18:10:42.824 DEBUG 9041514 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 18:10:42.828 DEBUG 9041518 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 18:10:42.834 DEBUG 9041524 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 18:11:59.503 DEBUG 9118193 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 18:11:59.503 DEBUG 9118193 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 18:11:59.505 DEBUG 9118195 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 18:12:09.951 DEBUG 9128641 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 18:12:09.953 DEBUG 9128643 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 18:12:09.955 DEBUG 9128645 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 18:12:21.826 DEBUG 9140516 --- [ http-nio-8082-exec-8 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 18:12:21.828 DEBUG 9140518 --- [ http-nio-8082-exec-8 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 18:12:21.835 DEBUG 9140525 --- [ http-nio-8082-exec-8 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 18:14:44.054 INFO  9282744 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 18:14:44.057 DEBUG 9282747 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 18:14:44.058 INFO  9282748 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 18:14:45.789 INFO  9284479 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.959 seconds (JVM running for 8821.304)
+2020-04-19 18:18:34.470 INFO  9513160 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 18:18:34.471 DEBUG 9513161 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 18:18:34.472 INFO  9513162 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 18:18:36.056 INFO  9514746 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.836 seconds (JVM running for 9051.55)
+2020-04-19 19:39:04.062 DEBUG 14342752 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 19:39:04.064 DEBUG 14342754 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 19:39:04.069 DEBUG 14342759 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 19:39:21.320 DEBUG 14360010 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 19:39:21.322 DEBUG 14360012 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 19:39:21.326 DEBUG 14360016 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 19:39:58.186 DEBUG 14396876 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 19:39:58.187 DEBUG 14396877 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 19:39:58.191 DEBUG 14396881 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 19:42:53.380 DEBUG 14572070 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 19:42:53.383 DEBUG 14572073 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 19:42:53.387 DEBUG 14572077 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 19:43:05.257 DEBUG 14583947 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 19:43:05.262 DEBUG 14583952 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 19:43:05.267 DEBUG 14583957 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 19:43:14.253 DEBUG 14592943 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 19:43:14.255 DEBUG 14592945 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 19:43:14.257 DEBUG 14592947 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 19:52:07.826 INFO  15126516 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 19:52:07.828 DEBUG 15126518 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 19:52:07.828 INFO  15126518 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 19:52:09.451 INFO  15128141 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.806 seconds (JVM running for 10306.988)
+2020-04-19 19:56:20.687 DEBUG 15379377 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 19:56:20.691 DEBUG 15379381 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 19:56:20.693 DEBUG 15379383 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 19:56:30.895 DEBUG 15389585 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 19:56:30.895 DEBUG 15389585 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 19:56:30.897 DEBUG 15389587 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 19:56:53.467 DEBUG 15412157 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 19:56:53.468 DEBUG 15412158 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 19:56:53.473 DEBUG 15412163 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 19:58:06.888 DEBUG 15485578 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 19:58:06.888 DEBUG 15485578 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 19:58:06.891 DEBUG 15485581 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 19:58:36.291 DEBUG 15514981 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 19:58:36.292 DEBUG 15514982 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 19:58:36.295 DEBUG 15514985 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 20:00:55.941 DEBUG 15654631 --- [ http-nio-8082-exec-8 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 20:00:55.942 DEBUG 15654632 --- [ http-nio-8082-exec-8 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 20:00:55.945 DEBUG 15654635 --- [ http-nio-8082-exec-8 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 20:10:09.337 INFO  16208027 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 20:10:09.339 DEBUG 16208029 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 20:10:09.339 INFO  16208029 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 20:10:10.915 INFO  16209605 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.805 seconds (JVM running for 11388.406)
+2020-04-19 20:12:49.107 DEBUG 16367797 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 20:12:49.110 DEBUG 16367800 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 20:12:49.114 DEBUG 16367804 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 20:13:16.614 DEBUG 16395304 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 20:13:16.615 DEBUG 16395305 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 20:13:16.617 DEBUG 16395307 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 20:13:30.832 DEBUG 16409522 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 20:13:30.832 DEBUG 16409522 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 20:13:30.835 DEBUG 16409525 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 20:23:16.501 DEBUG 16995191 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 20:23:16.504 DEBUG 16995194 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 20:23:16.508 DEBUG 16995198 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 20:23:25.020 DEBUG 17003710 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 20:23:25.020 DEBUG 17003710 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 20:23:25.029 DEBUG 17003719 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 20:24:01.517 DEBUG 17040207 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 20:24:01.518 DEBUG 17040208 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 20:24:01.521 DEBUG 17040211 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 20:27:06.314 INFO  17225004 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 20:27:06.316 DEBUG 17225006 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 20:27:06.316 INFO  17225006 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 20:27:07.918 INFO  17226608 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.827 seconds (JVM running for 12405.363)
+2020-04-19 20:36:24.353 INFO  17783043 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 20:36:24.355 DEBUG 17783045 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 20:36:24.355 INFO  17783045 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 20:36:26.114 INFO  17784804 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.979 seconds (JVM running for 12963.528)
+2020-04-19 20:52:40.742 INFO  18759432 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 20:52:40.743 DEBUG 18759433 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 20:52:40.744 INFO  18759434 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 20:52:42.315 INFO  18761005 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.82 seconds (JVM running for 13939.7)
+2020-04-19 20:55:30.434 INFO  18929124 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 20:55:30.435 DEBUG 18929125 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 20:55:30.435 INFO  18929125 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 20:55:31.906 INFO  18930596 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.701 seconds (JVM running for 14109.289)
+2020-04-19 20:56:06.761 INFO  18965451 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 20:56:06.762 DEBUG 18965452 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 20:56:06.762 INFO  18965452 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 20:56:08.289 INFO  18966979 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.566 seconds (JVM running for 14145.67)
+2020-04-19 20:56:45.144 INFO  19003834 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 20:56:45.145 DEBUG 19003835 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 20:56:45.145 INFO  19003835 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 20:56:46.593 INFO  19005283 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.487 seconds (JVM running for 14183.973)
+2020-04-19 20:56:50.205 INFO  19008895 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 20:56:50.205 DEBUG 19008895 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 20:56:50.205 INFO  19008895 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 20:56:51.797 INFO  19010487 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.634 seconds (JVM running for 14189.177)
+2020-04-19 20:56:58.812 INFO  19017502 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 20:56:58.812 DEBUG 19017502 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 20:56:58.812 INFO  19017502 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 20:57:00.165 INFO  19018855 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.384 seconds (JVM running for 14197.545)
+2020-04-19 20:59:57.441 INFO  19196131 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 20:59:57.444 DEBUG 19196134 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 20:59:57.444 INFO  19196134 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 20:59:59.080 INFO  19197770 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.844 seconds (JVM running for 14376.455)
+2020-04-19 21:01:57.853 INFO  19316543 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 21:01:57.854 DEBUG 19316544 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 21:01:57.854 INFO  19316544 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 21:01:59.512 INFO  19318202 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.876 seconds (JVM running for 14496.884)
+2020-04-19 21:02:04.117 INFO  19322807 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 21:02:04.117 DEBUG 19322807 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 21:02:04.117 INFO  19322807 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 21:02:05.528 INFO  19324218 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.455 seconds (JVM running for 14502.9)
+2020-04-19 21:02:11.132 INFO  19329822 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 7248 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 21:02:11.133 DEBUG 19329823 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 21:02:11.133 INFO  19329823 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 21:02:12.658 INFO  19331348 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.569 seconds (JVM running for 14510.03)
+2020-04-19 21:04:56.683 DEBUG 19495373 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 21:04:56.688 DEBUG 19495378 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 21:04:56.701 DEBUG 19495391 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 21:05:04.017 DEBUG 19502707 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 21:05:04.018 DEBUG 19502708 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 21:05:04.019 DEBUG 19502709 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 21:05:54.311 DEBUG 19553001 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 21:05:54.313 DEBUG 19553003 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 21:05:54.315 DEBUG 19553005 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 21:07:33.975 INFO  1597 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 25994 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 21:07:33.981 DEBUG 1603 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 21:07:33.982 INFO  1604 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 21:07:45.226 INFO  12848 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 12.352 seconds (JVM running for 13.835)
+2020-04-19 21:41:39.855 INFO  1244 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 28549 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 21:41:39.860 DEBUG 1249 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 21:41:39.860 INFO  1249 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 21:41:49.243 INFO  10632 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 10.228 seconds (JVM running for 11.46)
+2020-04-19 21:42:10.514 DEBUG 31903 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 21:42:10.542 DEBUG 31931 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 21:42:10.563 DEBUG 31952 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 21:42:18.915 DEBUG 40304 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 21:42:18.920 DEBUG 40309 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 21:42:18.927 DEBUG 40316 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 21:42:58.638 DEBUG 80027 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 21:42:58.641 DEBUG 80030 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 21:42:58.644 DEBUG 80033 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 21:45:33.489 DEBUG 234878 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 21:45:33.493 DEBUG 234882 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 21:45:33.495 DEBUG 234884 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 21:47:07.762 DEBUG 329151 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 21:47:07.762 DEBUG 329151 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 21:47:07.765 DEBUG 329154 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 21:50:42.365 INFO  543754 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 28549 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 21:50:42.367 DEBUG 543756 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 21:50:42.368 INFO  543757 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 21:50:44.261 INFO  545650 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 2.143 seconds (JVM running for 546.446)
+2020-04-19 21:50:56.100 INFO  1254 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 29261 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 21:50:56.104 DEBUG 1258 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 21:50:56.105 INFO  1259 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 21:51:05.715 INFO  10869 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 10.458 seconds (JVM running for 11.517)
+2020-04-19 21:51:18.586 DEBUG 23740 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 21:51:18.617 DEBUG 23771 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 21:51:18.638 DEBUG 23792 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 21:51:23.382 DEBUG 28536 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 21:51:23.383 DEBUG 28537 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 21:51:23.388 DEBUG 28542 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 21:51:29.550 DEBUG 34704 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 21:51:29.553 DEBUG 34707 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 21:51:29.563 DEBUG 34717 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 21:51:34.454 DEBUG 39608 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 21:51:34.457 DEBUG 39611 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 21:51:34.461 DEBUG 39615 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 21:54:02.791 INFO  187945 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 29261 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 21:54:02.792 DEBUG 187946 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 21:54:02.792 INFO  187946 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 21:54:04.399 INFO  189553 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.791 seconds (JVM running for 190.197)
+2020-04-19 21:55:01.492 INFO  246646 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 29261 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 21:55:01.492 DEBUG 246646 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 21:55:01.493 INFO  246647 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 21:55:02.983 INFO  248137 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.538 seconds (JVM running for 248.779)
+2020-04-19 21:55:17.653 INFO  262807 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 29261 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 21:55:17.654 DEBUG 262808 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 21:55:17.654 INFO  262808 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 21:55:19.086 INFO  264240 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.477 seconds (JVM running for 264.881)
+2020-04-19 21:55:41.827 INFO  286981 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 29261 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 21:55:41.827 DEBUG 286981 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 21:55:41.828 INFO  286982 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 21:55:43.283 INFO  288437 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.494 seconds (JVM running for 289.077)
+2020-04-19 21:56:27.553 INFO  1265 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 29668 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 21:56:27.558 DEBUG 1270 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 21:56:27.559 INFO  1271 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 21:56:35.220 INFO  8932 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 8.518 seconds (JVM running for 9.809)
+2020-04-19 21:56:48.403 DEBUG 22115 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 21:56:48.428 DEBUG 22140 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), fg(String)
+2020-04-19 21:56:48.442 DEBUG 22154 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 0
+2020-04-19 21:57:21.893 DEBUG 55605 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 21:57:21.895 DEBUG 55607 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), df(String)
+2020-04-19 21:57:21.900 DEBUG 55612 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 0
+2020-04-19 21:57:43.369 INFO  77081 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 29668 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 21:57:43.370 DEBUG 77082 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 21:57:43.370 INFO  77082 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 21:57:45.477 INFO  79189 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 2.284 seconds (JVM running for 80.064)
+2020-04-19 21:58:13.221 DEBUG 106933 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 21:58:13.223 DEBUG 106935 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), df(String)
+2020-04-19 21:58:13.225 DEBUG 106937 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 0
+2020-04-19 21:58:37.410 INFO  131122 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 29668 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 21:58:37.411 DEBUG 131123 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 21:58:37.411 INFO  131123 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 21:58:39.044 INFO  132756 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.686 seconds (JVM running for 133.63)
+2020-04-19 21:58:48.583 INFO  1383 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 29850 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 21:58:48.589 DEBUG 1389 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 21:58:48.590 INFO  1390 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 21:58:56.775 INFO  9575 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 9.15 seconds (JVM running for 10.344)
+2020-04-19 21:59:08.312 DEBUG 21112 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 21:59:08.337 DEBUG 21137 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), df(String)
+2020-04-19 21:59:08.374 DEBUG 21174 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 0
+2020-04-19 22:01:35.771 INFO  168571 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 29850 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 22:01:35.771 DEBUG 168571 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 22:01:35.772 INFO  168572 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 22:01:40.460 INFO  1052 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 30061 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 22:01:40.464 DEBUG 1056 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 22:01:40.464 INFO  1056 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 22:01:46.357 INFO  6949 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 6.58 seconds (JVM running for 7.671)
+2020-04-19 22:01:58.931 DEBUG 19523 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 22:01:58.957 DEBUG 19549 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), sd(String)
+2020-04-19 22:01:58.974 DEBUG 19566 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 0
+2020-04-19 22:03:01.527 INFO  82119 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 30061 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 22:03:01.528 DEBUG 82120 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 22:03:01.529 INFO  82121 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 22:03:06.084 INFO  977  --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 30171 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 22:03:06.088 DEBUG 981  --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 22:03:06.088 INFO  981  --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 22:03:12.556 INFO  7449 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 7.156 seconds (JVM running for 8.002)
+2020-04-19 22:43:05.247 INFO  1244 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 31857 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 22:43:05.254 DEBUG 1251 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 22:43:05.254 INFO  1251 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 22:43:14.112 INFO  10109 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 9.644 seconds (JVM running for 11.217)
+2020-04-19 22:43:28.729 DEBUG 24726 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 22:43:28.760 DEBUG 24757 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), dgd(String)
+2020-04-19 22:43:28.777 DEBUG 24774 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 0
+2020-04-19 22:44:26.035 DEBUG 82032 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 22:44:26.037 DEBUG 82034 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 22:44:26.053 DEBUG 82050 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 22:44:43.295 DEBUG 99292 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 22:44:43.296 DEBUG 99293 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 22:44:43.311 DEBUG 99308 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 22:45:11.639 DEBUG 127636 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 22:45:11.641 DEBUG 127638 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 22:45:11.645 DEBUG 127642 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 22:46:51.892 INFO  1085 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 32139 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 22:46:51.896 DEBUG 1089 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 22:46:51.897 INFO  1090 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 22:46:59.720 INFO  8913 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 8.555 seconds (JVM running for 9.819)
+2020-04-19 22:49:00.491 DEBUG 129684 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 22:49:00.517 DEBUG 129710 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 22:49:00.536 DEBUG 129729 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 22:49:40.567 DEBUG 169760 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 22:49:40.569 DEBUG 169762 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 22:49:40.574 DEBUG 169767 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 22:56:39.473 DEBUG 588666 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 22:56:39.485 DEBUG 588678 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 22:56:39.493 DEBUG 588686 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 22:56:46.221 DEBUG 595414 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 22:56:46.223 DEBUG 595416 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 22:56:46.227 DEBUG 595420 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 22:56:53.267 DEBUG 602460 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 22:56:53.272 DEBUG 602465 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 22:56:53.277 DEBUG 602470 --- [ http-nio-8082-exec-7 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 22:57:07.337 DEBUG 616530 --- [ http-nio-8082-exec-8 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 22:57:07.338 DEBUG 616531 --- [ http-nio-8082-exec-8 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 22:57:07.342 DEBUG 616535 --- [ http-nio-8082-exec-8 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 22:57:37.095 INFO  646288 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 32139 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 22:57:37.095 DEBUG 646288 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 22:57:37.096 INFO  646289 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 22:57:41.256 INFO  1066 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 32955 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 22:57:41.259 DEBUG 1069 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 22:57:41.260 INFO  1070 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 22:57:49.032 INFO  8842 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 8.489 seconds (JVM running for 9.504)
+2020-04-19 22:57:54.623 INFO  14433 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 32955 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 22:57:54.624 DEBUG 14434 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 22:57:54.624 INFO  14434 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 22:57:56.266 INFO  16076 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.692 seconds (JVM running for 16.738)
+2020-04-19 22:58:02.855 INFO  22665 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 32955 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 22:58:02.855 DEBUG 22665 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 22:58:02.855 INFO  22665 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 22:58:06.973 INFO  950  --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 32988 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 22:58:06.979 DEBUG 956  --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 22:58:06.979 INFO  956  --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 22:58:13.662 INFO  7639 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 7.322 seconds (JVM running for 8.183)
+2020-04-19 22:58:26.094 DEBUG 20071 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 22:58:26.117 DEBUG 20094 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 22:58:26.137 DEBUG 20114 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 22:58:36.785 DEBUG 30762 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 22:58:36.787 DEBUG 30764 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 22:58:36.796 DEBUG 30773 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 22:59:51.114 DEBUG 105091 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 22:59:51.115 DEBUG 105092 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 22:59:51.119 DEBUG 105096 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 22:59:59.234 DEBUG 113211 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 22:59:59.236 DEBUG 113213 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 22:59:59.241 DEBUG 113218 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:00:03.693 DEBUG 117670 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:00:03.695 DEBUG 117672 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:00:03.697 DEBUG 117674 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:00:34.396 INFO  148373 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 32988 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 23:00:34.396 DEBUG 148373 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 23:00:34.397 INFO  148374 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 23:00:36.338 INFO  150315 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 1.992 seconds (JVM running for 150.855)
+2020-04-19 23:00:41.831 INFO  949  --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 33184 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 23:00:41.836 DEBUG 954  --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 23:00:41.837 INFO  955  --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 23:00:49.029 INFO  8147 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 7.85 seconds (JVM running for 8.717)
+2020-04-19 23:01:02.091 DEBUG 21209 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:01:02.114 DEBUG 21232 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:01:02.134 DEBUG 21252 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:02:26.647 DEBUG 105765 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:02:26.649 DEBUG 105767 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:02:26.653 DEBUG 105771 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:02:43.779 DEBUG 122897 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:02:43.782 DEBUG 122900 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:02:43.795 DEBUG 122913 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:02:48.361 DEBUG 127479 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:02:48.363 DEBUG 127481 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:02:48.365 DEBUG 127483 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:03:01.888 DEBUG 141006 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:03:01.891 DEBUG 141009 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:03:01.894 DEBUG 141012 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:04:34.864 DEBUG 233982 --- [ http-nio-8082-exec-8 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:04:34.867 DEBUG 233985 --- [ http-nio-8082-exec-8 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:04:34.870 DEBUG 233988 --- [ http-nio-8082-exec-8 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:05:47.329 DEBUG 306447 --- [ http-nio-8082-exec-10 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:05:47.331 DEBUG 306449 --- [ http-nio-8082-exec-10 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:05:47.334 DEBUG 306452 --- [ http-nio-8082-exec-10 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:06:10.250 DEBUG 329368 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:06:10.252 DEBUG 329370 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:06:10.254 DEBUG 329372 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:07:06.155 DEBUG 385273 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:07:06.157 DEBUG 385275 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:07:06.159 DEBUG 385277 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:07:33.497 DEBUG 412615 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:07:33.497 DEBUG 412615 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:07:33.499 DEBUG 412617 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:08:25.583 DEBUG 464701 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:08:25.584 DEBUG 464702 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:08:25.587 DEBUG 464705 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:18:34.683 INFO  1073801 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Starting Demo20200331ApiApplication on computer.local with PID 33184 (/Users/hong-gwon-il/git/demo-api/demo_20200331_api/target/classes started by hong-gwon-il in /Users/hong-gwon-il/git/demo-api/demo_20200331_api)
+2020-04-19 23:18:34.685 DEBUG 1073803 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-19 23:18:34.686 INFO  1073804 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - The following profiles are active: local
+2020-04-19 23:18:36.573 INFO  1075691 --- [ restartedMain ] c.k.d.v1.Demo20200331ApiApplication - Started Demo20200331ApiApplication in 2.09 seconds (JVM running for 1076.241)
+2020-04-19 23:24:51.632 DEBUG 1450750 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:24:51.640 DEBUG 1450758 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:24:51.672 DEBUG 1450790 --- [ http-nio-8082-exec-1 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:24:54.954 DEBUG 1454072 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:24:54.955 DEBUG 1454073 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:24:54.958 DEBUG 1454076 --- [ http-nio-8082-exec-2 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:25:03.816 DEBUG 1462934 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:25:03.817 DEBUG 1462935 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:25:03.821 DEBUG 1462939 --- [ http-nio-8082-exec-3 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:25:36.184 DEBUG 1495302 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:25:36.185 DEBUG 1495303 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:25:36.187 DEBUG 1495305 --- [ http-nio-8082-exec-4 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:26:04.715 DEBUG 1523833 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:26:04.718 DEBUG 1523836 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:26:04.729 DEBUG 1523847 --- [ http-nio-8082-exec-5 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
+2020-04-19 23:26:19.272 DEBUG 1538390 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==>  Preparing: SELECT TU.USER_NAME FROM demoDb.TBL_USER TU WHERE 1=1 AND TU.USER_ID = ? AND TU.USER_PW = ? 
+2020-04-19 23:26:19.273 DEBUG 1538391 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - ==> Parameters: hong99i(String), frhu78(String)
+2020-04-19 23:26:19.274 DEBUG 1538392 --- [ http-nio-8082-exec-6 ] c.k.d.v.m.d.MemberDao.loginUserInfo - <==      Total: 1
